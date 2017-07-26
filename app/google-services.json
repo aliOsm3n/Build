@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "344006614291",
+    "firebase_url": "https://jokes-b0c68.firebaseio.com",
+    "project_id": "jokes-b0c68",
+    "storage_bucket": "jokes-b0c68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344006614291:android:63a17c1c66807657",
+        "android_client_info": {
+          "package_name": "com.android.jokes_builditbigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344006614291-lsf6frk4d70r7vvrttitku1bnru0lufb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_CDFmh_Mq_u7n97vOWddYnImRQhQCQe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344006614291:android:6f04bf5b904c90e2",
+        "android_client_info": {
+          "package_name": "com.android.joke_android_lib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344006614291-lsf6frk4d70r7vvrttitku1bnru0lufb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_CDFmh_Mq_u7n97vOWddYnImRQhQCQe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344006614291:android:dd2174f7078a3c73",
+        "android_client_info": {
+          "package_name": "com.android.jokes_builditbigger.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344006614291-lsf6frk4d70r7vvrttitku1bnru0lufb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_CDFmh_Mq_u7n97vOWddYnImRQhQCQe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344006614291:android:8bfc33eccb8f0c65",
+        "android_client_info": {
+          "package_name": "com.android.jokes_builditbigger.paid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344006614291-lsf6frk4d70r7vvrttitku1bnru0lufb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_CDFmh_Mq_u7n97vOWddYnImRQhQCQe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
